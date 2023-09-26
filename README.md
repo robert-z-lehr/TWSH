@@ -4,7 +4,7 @@ A centralized hub for free online tools, widgets, and services to make your meni
 ## Think of all the hours spent on:
 a simple, repetitive task because you didn't have or know about the right tools. The purpose of TWSH is to solve this for you by providing a reviewed collection of tools, widgets, and services considered safe and used across all fields.
 
-### This is a list of the types of tools, widgets, and services currently being considered to include in the hub:
+### These types of TWS are currently being considered to include in this hub:
 
 1. **Image Editors:** - Photo cropping and resizing - Basic image filters and effects - Collage maker - Image format converter - Text overlay on images
 
