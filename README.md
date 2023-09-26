@@ -1,5 +1,5 @@
 # TWSH - Tools-Widgets-Services Hub
-A centralized hub for free online tools, widgets, and services to make menial, monotonous tasks take less time and stress.
+A centralized hub for free online tools, widgets, and services to make your menial, monotonous tasks take less time and stress.
 
 ## Think of all the hours spent on:
 a simple, repetitive task because you didn't have or know about the right tools. The purpose of TWSH is to solve this for you by providing a reviewed collection of tools, widgets, and services considered safe and used across all fields.
