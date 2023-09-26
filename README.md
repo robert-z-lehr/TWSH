@@ -1,4 +1,4 @@
-# TWSH
+# TWSH - Tools-Widgets-Services Hub
 A centralized hub for free online tools, widgets, and services to make menial, monotonous tasks take less time and stress.
 
 ## Think of all the hours spent on:
