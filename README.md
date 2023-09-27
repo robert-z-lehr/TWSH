@@ -60,6 +60,8 @@ a simple, repetitive task because you didn't have or know about the right tools.
 35. **Educational Resources:**
   - Online courses directory - Study aids and flashcards - Homework and assignment help - Educational video library
 
-37. **Entertainment Widgets:** - Online games and puzzles - Music playlists and streaming - Movie recommendation tool - Joke generator 
+37. **Entertainment Widgets:**
+  - Online games and puzzles - Music playlists and streaming - Movie recommendation tool - Joke generator 
 
-38. **Community and Support:** - User forums and discussions - Troubleshooting guides - Community Q&A platform - User-generated content showcase Remember to prioritize the tools based on user demand and the utility they provide. Regularly update and expand your collection to meet evolving needs.
+39. **Community and Support:**
+  - User forums and discussions - Troubleshooting guides - Community Q&A platform - User-generated content showcase Remember to prioritize the tools based on user demand and the utility they provide. Regularly update and expand your collection to meet evolving needs.
